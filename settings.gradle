@@ -1,0 +1,3 @@
+include ':SuperInput'
+include ':app'
+rootProject.name = "SurperInput"
